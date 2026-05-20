@@ -1,3 +1,5 @@
+<img src="photo.jpg" alt="Ana Laura" width="120" align="right" style="border-radius:50%" />
+
 # Olá, eu sou a Ana Laura 👋
 
 **Desenvolvedora** focada em construir coisas que funcionam — de pipelines de monitoramento a sites estáticos.

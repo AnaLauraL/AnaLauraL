@@ -1,23 +1,23 @@
-# Hi, I'm Ana Laura 👋
+# Olá, eu sou a Ana Laura 👋
 
-**Developer** focused on building things that work — from monitoring pipelines to static sites.
+**Desenvolvedora** focada em construir coisas que funcionam — de pipelines de monitoramento a sites estáticos.
 
-I'm looking for my next opportunity as a **junior developer or intern**, ready to contribute and keep growing.
+Estou em busca da minha próxima oportunidade como **desenvolvedora júnior ou estagiária**, pronta para contribuir e continuar crescendo.
 
 ---
 
-## About
+## Sobre mim
 
-- 🏢 Former apprentice at [Pluxee](https://www.linkedin.com/company/pluxee/), rotating through **DevOps, Field Service, and InfoSec**
-- 🐍 Worked with Python, SQL, GitLab, and Datadog in production environments
-- 🌐 Currently building personal projects with Next.js and React
+- 🏢 Ex-jovem aprendiz na [Pluxee](https://www.linkedin.com/company/pluxee/), com rodízio por **DevOps, Field Service e Segurança da Informação**
+- 🐍 Trabalhei com Python, SQL, GitLab e Datadog em ambiente de produção
+- 🌐 Atualmente desenvolvendo projetos pessoais com Next.js e React
 - 📍 São Paulo, Brasil
 
 ---
 
 ## Stack
 
-**Languages & Core**
+**Linguagens & Base**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -33,7 +33,7 @@ I'm looking for my next opportunity as a **junior developer or intern**, ready t
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat&logo=mdx&logoColor=white)
 
-**DevOps & Tools**
+**DevOps & Ferramentas**
 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
@@ -42,16 +42,16 @@ I'm looking for my next opportunity as a **junior developer or intern**, ready t
 
 ---
 
-## Projects
+## Projetos
 
-| Project | Description | Stack |
+| Projeto | Descrição | Stack |
 |---|---|---|
-| [Blog](https://ana.dev) | Personal blog with MDX posts, RSS feed, and dark mode | Next.js · TypeScript · Tailwind · MDX |
-| [Open Link](https://ana.dev) | Link-in-bio page — all my links in one place | Next.js · TypeScript · Tailwind |
+| [Blog](https://ana.dev) | Blog pessoal com posts em MDX, feed RSS e modo escuro | Next.js · TypeScript · Tailwind · MDX |
+| [Open Link](https://ana.dev) | Página de links — tudo em um só lugar | Next.js · TypeScript · Tailwind |
 
 ---
 
-## Let's connect
+## Vamos nos conectar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-laura-clementino/)
 [![Blog](https://img.shields.io/badge/Blog-ana.dev-black?style=flat)](https://ana.dev)

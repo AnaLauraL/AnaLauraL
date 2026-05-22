@@ -46,12 +46,12 @@ Estou em busca da minha próxima oportunidade como **desenvolvedora júnior ou e
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Blog](https://ana.dev) | Blog pessoal com posts em MDX, feed RSS e modo escuro | Next.js · TypeScript · Tailwind · MDX |
-| [Open Link](https://ana.dev) | Página de links — tudo em um só lugar | Next.js · TypeScript · Tailwind |
+| [Blog](https://stash-da-ana.dev/) | Blog pessoal com posts em MDX, feed RSS e modo escuro | Next.js · TypeScript · Tailwind · MDX |
+| [Open Link](https://links.stash-da-ana.dev/) | Página de links — tudo em um só lugar | Next.js · TypeScript · Tailwind |
 
 ---
 
 ## Vamos nos conectar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-laura-clementino/)
-[![Blog](https://img.shields.io/badge/Blog-ana.dev-black?style=flat)](https://ana.dev)
+[![Blog](https://img.shields.io/badge/Blog-stash--da--ana.dev-black?style=flat)](https://stash-da-ana.dev/)
